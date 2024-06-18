@@ -26,7 +26,8 @@ Collect and organize your husky photos into a dataset directory. Ensure that you
 ### Fine-tuning with Dreambooth and LoRa
 Run the training script with the following command:
 
-``` !accelerate launch train_dreambooth_lora_sdxl.py \
+```
+!accelerate launch train_dreambooth_lora_sdxl.py \
   --pretrained_model_name_or_path="your_pretrained_model" \
   --pretrained_vae_model_name_or_path="madebyollin/sdxl-vae-fp16-fix" \
   --dataset_name="husky" \
@@ -47,6 +48,7 @@ Run the training script with the following command:
   --max_train_steps=300 \
   --checkpointing_steps=717 \
   --seed="0"
+```
 
 ## Results
 We display the results using a range of training samples and images from different huskys. Here is the AI generated Husky Images. In text-to-image, the prompt is very priority. The better you are at prompting, the better the AI will generate husky images. 
