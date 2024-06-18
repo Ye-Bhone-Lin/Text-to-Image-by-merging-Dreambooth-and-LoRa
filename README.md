@@ -5,7 +5,6 @@ This project aims to generate high-quality images of huskies by combining the Dr
 ## Table of Contents
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Training](#training)
 - [Results](#results)
