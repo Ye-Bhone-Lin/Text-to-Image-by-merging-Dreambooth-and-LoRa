@@ -26,7 +26,7 @@ Collect and organize your husky photos into a dataset directory. Ensure that you
 ### Fine-tuning with Dreambooth and LoRa
 Run the training script with the following command:
 
-!accelerate launch train_dreambooth_lora_sdxl.py \
+``` !accelerate launch train_dreambooth_lora_sdxl.py \
   --pretrained_model_name_or_path="your_pretrained_model" \
   --pretrained_vae_model_name_or_path="madebyollin/sdxl-vae-fp16-fix" \
   --dataset_name="husky" \
