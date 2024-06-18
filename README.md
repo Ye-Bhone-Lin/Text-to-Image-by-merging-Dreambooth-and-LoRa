@@ -9,9 +9,8 @@ This project aims to generate high-quality images of huskies by combining the Dr
 - [Usage](#usage)
 - [Training](#training)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
+- [References](#contributing)
+  
 ## Introduction
 This repository contains the implementation of a text-to-image model that leverages Dreambooth and LoRa for fine-tuning with specific images. The focus is on generating husky images with improved quality by using detailed prompts.
 
