@@ -62,6 +62,7 @@ Prompt: the husky in captain America outfit, 16k
 ![download (3)](https://github.com/Ye-Bhone-Lin/Text-to-Image-by-merging-Dreambooth-and-LoRa/assets/106800189/68b9be6a-2176-4b4c-8ed4-f218cb3475fc)
 Prompt: (ISOLATED ON A PRISTINE WHITE BACKGROUND: 1.5), T-SHIRT DESIGN, VECTOR ART, CONTOUR, Sad husky with a white background.
 
+For more details: (https://huggingface.co/YeBhoneLin10/husky_lora)
 ### References:
 
 Parashar, S. (2023, November 18). Dreambooth: Fine-tuning text-to-image diffusion models for subject-driven generation. Medium. https://medium.com/@sankalpparasharblog/dreambooth-fine-tuning-text-to-image-diffusion-models-for-subject-driven-generation-8f6664d57aaf
